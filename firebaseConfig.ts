@@ -5,13 +5,12 @@ import { getAnalytics } from "firebase/analytics";
 
 // Provided configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA3HPePHfOxz-LLReRE7VhxhtkjGQktkYY",
-  authDomain: "post-it-here-37ff2.firebaseapp.com",
-  projectId: "post-it-here-37ff2",
-  storageBucket: "post-it-here-37ff2.firebasestorage.app",
-  messagingSenderId: "866578222388",
-  appId: "1:866578222388:web:ea02d17ea1785ab90a6961",
-  measurementId: "G-SNYX54FXGN"
+  apiKey: "AIzaSyCQi1ZSAp7sao5Zu1lSpbU_T9iEobFBhKk",
+  authDomain: "post-it-c8aff.firebaseapp.com",
+  projectId: "post-it-c8aff",
+  storageBucket: "post-it-c8aff.firebasestorage.app",
+  messagingSenderId: "923007983674",
+  appId: "1:923007983674:web:5e33f3bdd2f25e70349503"
 };
 
 // Mutable export to allow fallback
